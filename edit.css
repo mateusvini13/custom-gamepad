@@ -1,0 +1,28 @@
+.controller .ds4 {
+    background: url(base.svg);
+}
+
+
+.ds4 .trigger {
+    background: url(triggers.svg);
+}
+
+
+.ds4 .bumper {
+    background: url(bumper.svg) no-repeat;
+}
+
+
+.ds4 .button {
+    background: url(face.svg);
+}
+
+
+.ds4 .stick {
+    background: url(sticks.svg);
+}
+
+
+.ds4 .face {
+    background: url(dpad.svg);
+}
